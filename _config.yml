@@ -24,7 +24,7 @@ navbar-links:
   Portfolio:
     - PCM DB Explorer: "https://srsdata.shinyapps.io/PCM-DB-Explorer/"
     - Dons Footy: "#"
-  # Author's home: "https://deanattali.com"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
