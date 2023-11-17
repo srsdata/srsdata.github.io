@@ -17,7 +17,7 @@ navbar-links:
   Apps:
     - PCM DB Explorer: "https://srsdata.shinyapps.io/PCM-DB-Explorer/"
     - Dons Footy: "#"
-  About: "aboutme"
+  About: "about"
   Contact: "contact"
 
 ################
