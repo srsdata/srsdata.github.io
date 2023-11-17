@@ -20,7 +20,7 @@ author: SRSData
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About: "aboutme"
   Portfolio:
     - PCM DB Explorer: "https://srsdata.shinyapps.io/PCM-DB-Explorer/"
     - Dons Footy: "#"
